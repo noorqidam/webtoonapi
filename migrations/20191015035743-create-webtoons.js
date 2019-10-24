@@ -14,14 +14,8 @@ module.exports = {
       genre: {
         type: Sequelize.STRING,
       },
-      description: {
-        type: Sequelize.TEXT,
-      },
       fav_count: {
         type: Sequelize.INTEGER,
-      },
-      cover: {
-        type: Sequelize.STRING,
       },
       image: {
         type: Sequelize.STRING,
@@ -44,9 +38,7 @@ module.exports = {
       updatedAt: {
         allowNull: false,
         type: 'TIMESTAMP',
-        defaultValue: Sequelize.literal(
-          'CURRENT_TIMESTAMP',
-        ),
+        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
       },
     });
   },

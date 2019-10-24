@@ -23,35 +23,15 @@ module.exports = {
       },
       {
         user: 1,
-        webtoon: 4,
-      },
-      {
-        user: 1,
-        webtoon: 6,
-      },
-      {
-        user: 1,
-        webtoon: 7,
-      },
-      {
-        user: 2,
-        webtoon: 1,
-      },
-      {
-        user: 2,
         webtoon: 3,
       },
       {
         user: 2,
+        webtoon: 4,
+      },
+      {
+        user: 2,
         webtoon: 5,
-      },
-      {
-        user: 2,
-        webtoon: 8,
-      },
-      {
-        user: 2,
-        webtoon: 2,
       },
     ]);
   },

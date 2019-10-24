@@ -16,50 +16,32 @@ module.exports = {
       {
         title: 'EP 1',
         image:
-          'https://getmanhwa.com/wp-content/uploads/2019/08/Perfect-half-title-correct.jpg',
+          'https://dreager1.files.wordpress.com/2012/02/jiraiya_killed_by_pain.jpg',
         webtoon: 1,
       },
       {
-        title: 'EP 1',
+        title: 'EP 2',
         image:
-          'https://getmanhwa.com/wp-content/uploads/2019/07/Solo-Leveling.jpg',
+          'https://i.pinimg.com/originals/ef/4a/6f/ef4a6f97b3184a39859977511dc34bad.jpg',
         webtoon: 2,
       },
       {
-        title: 'EP 1',
+        title: 'EP 3',
         image:
-          'http://postfiles3.naver.net/20160626_34/juderland_1466924213290Heosh_JPEG/%C1%A6%B8%F1re.jpg?type=w2',
+          'https://d.wattpad.com/story_parts/179/images/1585520188369900607095857880.jpg',
         webtoon: 3,
       },
       {
-        title: 'EP 1',
+        title: 'EP 4',
         image:
-          'https://getmanhwa.com/wp-content/uploads/2019/07/Devils-Descendants.jpg',
+          'https://i.ytimg.com/vi/o95fomzhCZo/maxresdefault.jpg',
         webtoon: 4,
       },
       {
-        title: 'EP 1',
+        title: 'EP 5',
         image:
-          'https://getmanhwa.com/wp-content/uploads/2019/08/Delivery-Knight-title.jpg',
+          'https://vignette.wikia.nocookie.net/naruto/images/6/63/Madara_targets_Tailed_Beasts.png/revision/latest?cb=20141216140857&path-prefix=id',
         webtoon: 5,
-      },
-      {
-        title: 'EP 1',
-        image:
-          'https://getmanhwa.com/wp-content/uploads/2019/09/Love-square-title.png',
-        webtoon: 6,
-      },
-      {
-        title: 'EP 1',
-        image:
-          'https://getmanhwa.com/wp-content/uploads/2019/07/Yuris-perfect-Married-life.jpg',
-        webtoon: 7,
-      },
-      {
-        title: 'EP 1',
-        image:
-          'https://getmanhwa.com/wp-content/uploads/2019/09/Raid-Title.jpg',
-        webtoon: 8,
       },
     ]);
   },
